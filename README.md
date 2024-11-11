@@ -1,2 +1,2 @@
-# RF-CRS
-The pytorch implementation of the RF-CRS.
+# LINK
+The pytorch implementation of the LINK.
